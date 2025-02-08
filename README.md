@@ -1,7 +1,6 @@
 # Hi there 👋, I'm mariosmant!
 
 ### 📝 About Me
-- I am an accomplished Senior Software Engineer specialized in full-stack web development, with expertise in Spring Boot and Java. Proficient in Azure Cloud platform. I have worked mostly on PostgreSQL, MySQL, Oracle SQL, MongoDB and CosmosDB, but I am familiar with other DBs also, like SQLite, DynamoDB.
 - 💻 I'm an accomplished Senior Software Engineer specialized in full-stack web development with expertise in Spring Boot and Java.
 - ☁️ Proficient in the Azure Cloud platform and familiar with AWS.
 - 🗄️ I have extensive experience working with PostgreSQL, MySQL, Oracle SQL, MongoDB, and CosmosDB, and am also familiar with other databases such as SQLite and DynamoDB.
@@ -58,7 +57,7 @@
 
 ### ✨ Fun Facts
 - 🇯🇵 Learning Japanese 🏯
-- 🎸 Learning Guitar 🎧
+- 🎸Learning Guitar 🎧
 
 ### 🔗 Links
 - [LinkedIn](https://linkedin.com/in/mariosmant)
