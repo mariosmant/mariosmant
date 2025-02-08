@@ -51,7 +51,7 @@
 ### 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue)
 
-### 🥇 Azure Certificate
+### 🥇 Certificates
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/E2E82D0FFAB16DA9)
 
