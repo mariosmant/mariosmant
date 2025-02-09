@@ -1,6 +1,6 @@
 # Hi there 👋, I'm mariosmant!
 
-|  | 📈 GitHub Stats | 🏆 Top Languages |
+| 📊  | 📈 GitHub Stats | 🏆 Top Languages |
 |------------------|-----------------|-----------------|
 | ![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosmant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmant&layout=compact&theme=dracula) |
 
@@ -48,7 +48,6 @@
 - ☁️ Cloud:  
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 ### 🥇 Certificates
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
