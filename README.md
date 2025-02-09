@@ -1,11 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h1>Hi there 👋, I'm mariosmant!</h1>
-  </div>
-  <div style="display: flex; align-items: center; margin-left: 1rem;">
-    <img src="https://komarev.com/ghpvc/?username=mariosmant&color=blue" alt="Profile Views" style="margin-left: 1rem;">
-  </div>
-</div>
+# Hi there 👋, I'm mariosmant!
+
+|  | 📈 GitHub Stats | 🏆 Top Languages |
+|------------------|-----------------|-----------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosmant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmant&layout=compact&theme=dracula) |
+
 
 ### 📝 About Me
 - 💻 I'm an accomplished Senior Software Engineer specialized in full-stack web development with expertise in Spring Boot and Java.
@@ -51,16 +49,6 @@
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>📈 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=mariosmant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dracula" alt="Your GitHub stats">
-  </div>
-  <div>
-    <h3>🏆 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmant&layout=compact&theme=dracula" alt="Top Languages">
-  </div>
-</div>
 
 ### 🥇 Certificates
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
