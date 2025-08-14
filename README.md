@@ -52,6 +52,7 @@
 ### 🥇 Certificates
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/E2E82D0FFAB16DA9)
+- [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/7FAA5814161213BD)
 
 ### ✨ Fun Facts
 - 🇯🇵 Learning Japanese 🏯
