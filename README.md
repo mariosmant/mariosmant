@@ -1,4 +1,4 @@
-# Hi there 👋, I'm mariosmant!
+# Hi there 👋, I'm Marios!
 
 | 📊  | 📈 GitHub Stats | 🏆 Top Languages |
 |------------------|-----------------|-----------------|
@@ -62,6 +62,3 @@
 - [LinkedIn](https://linkedin.com/in/mariosmant)
 - [Twitter](https://twitter.com/mariosmant)
 - [Personal Website](https://www.mariosmant.com)
-
----
-⭐️ From [mariosmant](https://github.com/mariosmant)
