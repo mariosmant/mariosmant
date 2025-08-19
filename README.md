@@ -62,3 +62,5 @@
 - [LinkedIn](https://linkedin.com/in/mariosmant)
 - [Twitter](https://twitter.com/mariosmant)
 - [Personal Website](https://www.mariosmant.com)
+- [Microsoft Learn](https://learn.microsoft.com/users/mariosmant/)
+- [Stack Overflow](https://stackoverflow.com/users/6083839/mariosmant)
