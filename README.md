@@ -64,3 +64,4 @@
 - [Personal Website](https://www.mariosmant.com)
 - [Microsoft Learn](https://learn.microsoft.com/users/mariosmant/)
 - [Stack Overflow](https://stackoverflow.com/users/6083839/mariosmant)
+- [Postman](https://www.postman.com/mariosmant)
