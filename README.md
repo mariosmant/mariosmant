@@ -6,9 +6,10 @@
 
 ## 📝 About Me
 
-- 💻 I'm an accomplished Senior Software Engineer specialized in full-stack web development with expertise in Spring Boot and Java.
-- ☁️ Proficient in the Azure Cloud platform and familiar with AWS.
-- 🗄️ I have extensive experience working with PostgreSQL, MySQL, Oracle SQL, MongoDB, and CosmosDB, and am also familiar with other databases such as SQLite and DynamoDB.
+- 💻 Accomplished Senior Software Engineer with expertise in **Spring Boot**, **Java**, and **Apache Camel** for building scalable, enterprise-grade services — able to deliver end-to-end when needed, with frontend proficiency in **Angular**, **React**, and **TypeScript**.
+- ☁️ **4× Microsoft Azure-certified** cloud professional (Developer Associate, Administrator Associate, Data Fundamentals, Azure Fundamentals) with hands-on experience designing cloud-native architectures, Infrastructure as Code (**Bicep**, **AWS CDK**), and containerized deployments with **Docker** & **Kubernetes**. Also familiar with AWS.
+- 🗄️ Extensive experience across both relational and NoSQL databases — including **PostgreSQL**, **MySQL**, **Oracle SQL**, **MongoDB**, **CosmosDB**, **SQLite**, and **DynamoDB** — with expertise in schema design and database migration tooling (**Flyway**, **Liquibase**).
+- 🔄 Strong DevOps and CI/CD mindset, leveraging **Docker**, **Kubernetes**, **Jenkins**, **Maven**, **Gradle**, and **SonarQube** to deliver high-quality, production-ready software through automated pipelines.
 - 🌐 Expert in designing, building, and integrating RESTful APIs.
 - 🔭 I’m currently experimenting on Data Engineering techniques
 - 🔭 I’m currently experimenting on Image Segmentation
