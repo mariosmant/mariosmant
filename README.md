@@ -1,20 +1,22 @@
-# Hi there 👋, I'm Marios!
+# Hi there 👋, I'm Marios
 
 | 📊  | 📈 GitHub Stats | 🏆 Top Languages |
 |------------------|-----------------|-----------------|
 | ![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosmant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmant&layout=compact&theme=dracula) |
 
+## 📝 About Me
 
-### 📝 About Me
 - 💻 I'm an accomplished Senior Software Engineer specialized in full-stack web development with expertise in Spring Boot and Java.
 - ☁️ Proficient in the Azure Cloud platform and familiar with AWS.
 - 🗄️ I have extensive experience working with PostgreSQL, MySQL, Oracle SQL, MongoDB, and CosmosDB, and am also familiar with other databases such as SQLite and DynamoDB.
 - 🌐 Expert in designing, building, and integrating RESTful APIs.
+- 🔭 I’m currently experimenting on Data Engineering techniques
 - 🔭 I’m currently experimenting on Image Segmentation
 - 🌱 I’m currently learning Python and Android
 - 📰 I'm continuously staying informed about the latest tech trends and programming frameworks.
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
+
 - 🧑‍💻 **Languages:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -49,16 +51,22 @@
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🥇 Certificates
-![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/E2E82D0FFAB16DA9)
-- [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/7FAA5814161213BD)
+## 🥇 Certificates
 
-### ✨ Fun Facts
+![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
+
+- [Microsoft Certified: Azure Developer Associate (2025)](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/7FAA5814161213BD)
+- [Microsoft Certified: Azure Administrator Associate (2025)](https://learn.microsoft.com/api/credentials/share/en-us/mariosmant/2ED532CEE94F4530)
+- [Microsoft Certified: Azure Data Fundamentals (2026)](https://learn.microsoft.com/api/credentials/share/el-gr/mariosmant/DE4CBE4282AE6BDD)
+- [Microsoft Certified: Azure Fundamentals (2024)](https://learn.microsoft.com/api/credentials/share/el-gr/mariosmant/E2E82D0FFAB16DA9)
+
+## ✨ Fun Facts
+
 - 🇯🇵 Learning Japanese 🏯
 - 🎸Learning Guitar 🎧
 
-### 🔗 Links
+## 🔗 Links
+
 - [LinkedIn](https://linkedin.com/in/mariosmant)
 - [Twitter](https://twitter.com/mariosmant)
 - [Personal Website](https://www.mariosmant.com)
