@@ -6,9 +6,7 @@ Backend-heavy, cloud-native engineer with **8+ years** building distributed syst
 
 📍 Greece 🇬🇷
 
-| 📊  | 📈 GitHub Stats | 🏆 Top Languages |
-|------------------|-----------------|-----------------|
-| ![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosmant&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmant&layout=compact&theme=dracula) |
+![Profile Views](https://komarev.com/ghpvc/?username=mariosmant&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariosmant/)
 
 ## 🚀 Featured Project
 
